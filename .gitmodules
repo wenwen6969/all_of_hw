@@ -1,0 +1,6 @@
+[submodule "packages/app1"]
+	path = packages/app1
+	url = https://github.com/wenwen6969/hwCode.git
+[submodule "packages/app2"]
+	path = packages/app2
+	url = https://github.com/wenwen6969/hwProject.git
